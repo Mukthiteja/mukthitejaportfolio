@@ -6,7 +6,7 @@ This is project created using HTML, CSS and JS to create the own portfolio.
 <img src="https://github.com/mukthiteja/mukthitejaportfolio/blob/master/porfolio_home.png"/>
 <!--<img src="https://github.com/mukthiteja/mukthitejaportfolio/blob/master/porfolio-contact.png"/>-->
 <img src="https://github.com/mukthiteja/mukthitejaportfolio/blob/master/porfolio_projects.png"/>
-<img src="https://github.com/mukthiteja/mukthitejaportfolio/blob/master/porfolio_skills.png"/>
+<img src="https://github.com/mukthiteja/mukthitejaportfolio/blob/master/portfolio_skills.png"/>
 <img src="https://github.com/mukthiteja/mukthitejaportfolio/blob/master/porfolio_about.png"/>
 
 
